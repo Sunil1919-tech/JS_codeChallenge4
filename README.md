@@ -1,4 +1,5 @@
-#Javascript Program using constructor  fun. and classes with constructor
+#Javascript Programusing constructor  fun. and classes with constructor
+
 Create a constructor function called CreateRoom. 
  It takes the person's name and assign it to a room variable. 
  After that, create a cleanRoom prototype function, 
